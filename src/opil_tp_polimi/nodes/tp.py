@@ -7,6 +7,7 @@ import opil_tp_polimi.msg
 import std_msgs 
 import random 
 import requests
+import os
 
 #a simple class to wrap the task 
 
@@ -267,6 +268,7 @@ if __name__ == '__main__':
       rate = rospy.Rate(1)
       ## --- manages the parameters --- ##
       configfile ="" #file fo the graph definition
+      print os.path()
       motion_post_template_file = "src/opil_tp_polimi/config/motion_post_template.json"
       action_post_template_file = "src/opil_tp_polimi/config/action_post_template.json"
       print sys.argv
