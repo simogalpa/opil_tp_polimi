@@ -9,6 +9,8 @@ import random
 import requests
 import os
 
+
+DOCKERIZED = True
 #a simple class to wrap the task 
 
 class task():
@@ -275,6 +277,8 @@ if __name__ == '__main__':
 
       print("File path : " , os.path.dirname(os.path.abspath(__file__)))
 
+      if 
+
       motion_post_template_file = "src/opil_tp_polimi/config/motion_post_template.json"
       action_post_template_file = "src/opil_tp_polimi/config/action_post_template.json"
       print sys.argv
@@ -303,6 +307,10 @@ if __name__ == '__main__':
       trigger_sub = rospy.Subscriber("/opil_tp_polimi/trigger", std_msgs.msg.String, trigger_callback)
       folder = ""
       filename = "i40Lab_config.json"
+      if DOCKERIZED:
+      	config_filename = "/opt/ros_ws/src/opil_tp_polimi/" +"config/i40Lab_config.json"
+      else: 
+      	config_filename = "/home/foflab/OPil_tp/src/opil_tp_polimi/config/i40Lab_config.json"
       with open("/home/foflab/OPil_tp/src/opil_tp_polimi/config/i40Lab_config.json", 'r') as f:
          datastore = json.load(f)
       print "data readed"
