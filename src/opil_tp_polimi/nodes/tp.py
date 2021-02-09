@@ -268,8 +268,10 @@ if __name__ == '__main__':
       rate = rospy.Rate(1)
       ## --- manages the parameters --- ##
       configfile ="" #file fo the graph definition
-      print os.path()
+      
+      print("Actual path " , os.path.abspath(os.getcwd()))
       print( os.path.abspath('../..'))
+
       motion_post_template_file = "src/opil_tp_polimi/config/motion_post_template.json"
       action_post_template_file = "src/opil_tp_polimi/config/action_post_template.json"
       print sys.argv
@@ -296,8 +298,8 @@ if __name__ == '__main__':
       header = {"Content-Type": "application/json"}
       # ROS COMMUNICATION INIT
       trigger_sub = rospy.Subscriber("/opil_tp_polimi/trigger", std_msgs.msg.String, trigger_callback)
-
-
+      folder = ""
+      filename = "i40Lab_config.json"
       with open("/home/foflab/OPil_tp/src/opil_tp_polimi/config/i40Lab_config.json", 'r') as f:
          datastore = json.load(f)
       print "data readed"
