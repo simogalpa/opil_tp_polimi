@@ -309,7 +309,7 @@ if __name__ == '__main__':
       	config_filename = "/opt/ros_ws/src/opil_tp_polimi/" +"config/i40Lab_config.json"
       else: 
       	config_filename = "/home/foflab/OPil_tp/src/opil_tp_polimi/config/i40Lab_config.json"
-      with open("/home/foflab/OPil_tp/src/opil_tp_polimi/config/i40Lab_config.json", 'r') as f:
+      with open(config_filename, 'r') as f:
          datastore = json.load(f)
       print "data readed"
 
