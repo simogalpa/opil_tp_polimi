@@ -270,7 +270,10 @@ if __name__ == '__main__':
       configfile ="" #file fo the graph definition
       
       print("Actual path " , os.path.abspath(os.getcwd()))
+
       print( os.path.abspath('../..'))
+
+      print("File path : " , os.path.dirname(os.path.abspath(__file__)))
 
       motion_post_template_file = "src/opil_tp_polimi/config/motion_post_template.json"
       action_post_template_file = "src/opil_tp_polimi/config/action_post_template.json"
