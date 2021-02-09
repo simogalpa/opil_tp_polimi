@@ -269,6 +269,7 @@ if __name__ == '__main__':
       ## --- manages the parameters --- ##
       configfile ="" #file fo the graph definition
       print os.path()
+      print( os.path.abspath('../..'))
       motion_post_template_file = "src/opil_tp_polimi/config/motion_post_template.json"
       action_post_template_file = "src/opil_tp_polimi/config/action_post_template.json"
       print sys.argv
