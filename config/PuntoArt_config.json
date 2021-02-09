@@ -1,0 +1,395 @@
+{"Nodes":[
+  {
+    "ID": 22829,
+    "Name": "",
+    "Pixel X": 3373,
+    "Pixel Y": 2095,
+    "Map X (meters)": 34.45,
+    "Map Y (meters)": 2.5,
+    "Floor": 1,
+    "Resolution": 0.025,
+    "Origin X": -49.875,
+    "Origin Y": -49.875
+  },
+  {
+    "ID": 22830,
+    "Name": "Ascensore PP",
+    "Pixel X": 3400,
+    "Pixel Y": 2208,
+    "Map X (meters)": 35.125,
+    "Map Y (meters)": 5.325,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22832,
+    "Name": "ricarica 52",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)": 36,
+    "Map Y (meters)": -4.375,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22833,
+    "Name": "Porta Ascensore PP",
+    "Pixel X": 3401,
+    "Pixel Y": 2112,
+    "Map X (meters)": 35.15,
+    "Map Y (meters)": 2.925,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22834,
+    "Name": "Forno",
+    "Pixel X": 2406,
+    "Pixel Y": 2042,
+    "Map X (meters)": 10.275,
+    "Map Y (meters)": 1.175,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22835,
+    "Name": "Accettazione/Spedizione",
+    "Pixel X": 1730,
+    "Pixel Y": 1959,
+    "Map X (meters)": -6.625,
+    "Map Y (meters)": -0.9,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22836,
+    "Name": "Controllo Qualità",
+    "Pixel X": 1991,
+    "Pixel Y": 1958,
+    "Map X (meters)": -0.1,
+    "Map Y (meters)": -0.925,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22837,
+    "Name": "Porta Ascensore PT",
+    "Pixel X": 2098,
+    "Pixel Y": 2089,
+    "Map X (meters)": 2.575,
+    "Map Y (meters)": 2.35,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22841,
+    "Name": "Ricamatrice automatica 2",
+    "Pixel X": 2321,
+    "Pixel Y": 1891,
+    "Map X (meters)": 8.15,
+    "Map Y (meters)": -2.6,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22842,
+    "Name": "Termosaldatura",
+    "Pixel X": 3563,
+    "Pixel Y": 1995,
+    "Map X (meters)": 39.2,
+    "Map Y (meters)": 0,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22843,
+    "Name": "Ricamatrice automatica 1",
+    "Pixel X": 1992,
+    "Pixel Y": 1855,
+    "Map X (meters)": -0.075,
+    "Map Y (meters)": -3.5,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22846,
+    "Name": "",
+    "Pixel X": 3401,
+    "Pixel Y": 2091,
+    "Map X (meters)": 35.15,
+    "Map Y (meters)": 2.4,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22847,
+    "Name": "",
+    "Pixel X": 3296,
+    "Pixel Y": 2104,
+    "Map X (meters)": 32.525,
+    "Map Y (meters)": 2.725,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22848,
+    "Name": "",
+    "Pixel X": 3435,
+    "Pixel Y": 1880,
+    "Map X (meters)": 36,
+    "Map Y (meters)": -2.875,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22849,
+    "Name": "",
+    "Pixel X": 1802,
+    "Pixel Y": 1951,
+    "Map X (meters)": -4.825,
+    "Map Y (meters)": -1.1,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22850,
+    "Name": "",
+    "Pixel X": 1934,
+    "Pixel Y": 1934,
+    "Map X (meters)": -1.525,
+    "Map Y (meters)": -1.525,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22851,
+    "Name": "",
+    "Pixel X": 1991,
+    "Pixel Y": 1932,
+    "Map X (meters)": -0.1,
+    "Map Y (meters)": -1.575,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22852,
+    "Name": "",
+    "Pixel X": 2095,
+    "Pixel Y": 1927,
+    "Map X (meters)": 2.5,
+    "Map Y (meters)": -1.7,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22853,
+    "Name": "",
+    "Pixel X": 2201,
+    "Pixel Y": 1922,
+    "Map X (meters)": 5.15,
+    "Map Y (meters)": -1.825,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22854,
+    "Name": "",
+    "Pixel X": 2277,
+    "Pixel Y": 1918,
+    "Map X (meters)": 7.05,
+    "Map Y (meters)": -1.925,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22855,
+    "Name": "",
+    "Pixel X": 2408,
+    "Pixel Y": 1919,
+    "Map X (meters)": 10.325,
+    "Map Y (meters)": -1.9,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22856,
+    "Name": "Ascensore PT",
+    "Pixel X": 2103,
+    "Pixel Y": 2216,
+    "Map X (meters)": 2.7,
+    "Map Y (meters)": 5.525,
+    "Floor": 0,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 22857,
+    "Name": "Cucitura",
+    "Pixel X": 3296,
+    "Pixel Y": 2083,
+    "Map X (meters)": 32.525,
+    "Map Y (meters)": 2.2,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  }
+],
+"Edges":[
+  {
+    "From": 22835,
+    "To": 22849,
+    "Weight" : 1
+  },  {
+    "From": 22849,
+    "To": 22850,
+    "Weight" : 1
+  },
+    {
+    "From": 22850,
+    "To": 22851,
+    "Weight" : 1
+  },
+    {
+    "From": 22851,
+    "To": 22836,
+    "Weight" : 1
+  },
+    {
+    "From": 22851,
+    "To": 22843,
+    "Weight" : 1
+  },
+    {
+    "From": 22851,
+    "To": 22852,
+    "Weight" : 1
+  },
+    {
+    "From": 22851,
+    "To": 22853,
+    "Weight" : 1
+  },
+    {
+    "From": 22852,
+    "To": 22837,
+    "Weight" : 1
+  },
+    {
+    "From": 22852,
+    "To": 22853,
+    "Weight" : 1
+  },
+    {
+    "From": 22853,
+    "To": 22854,
+    "Weight" : 1
+  },
+    {
+    "From": 22854,
+    "To": 22841,
+    "Weight" : 1
+  },
+    {
+    "From": 22854,
+    "To": 22855,
+    "Weight" : 1
+  },
+    {
+    "From": 22841,
+    "To": 22855,
+    "Weight" : 1
+  },
+    {
+    "From": 22855,
+    "To": 22834,
+    "Weight" : 1
+  },
+    {
+    "From": 22837,
+    "To": 22856,
+    "Weight" : 1
+  },  {
+    "From": 22856,
+    "To": 22830,
+    "Weight" : 1
+  },  {
+    "From": 22830,
+    "To": 22833,
+    "Weight" : 1
+  },  {
+    "From": 22833,
+    "To": 22846,
+    "Weight" : 1
+  },  {
+    "From": 22846,
+    "To": 22842,
+    "Weight" : 1
+  },  {
+    "From": 22846,
+    "To": 22848,
+    "Weight" : 1
+  },
+    {
+    "From": 22848,
+    "To": 22832,
+    "Weight" : 1
+  },
+    {
+    "From": 22846,
+    "To": 22829,
+    "Weight" : 1
+  },
+    {
+    "From": 22829,
+    "To": 22847,
+    "Weight" : 1
+  },
+    {
+    "From": 22847,
+    "To": 22857,
+    "Weight" : 1
+  }
+  ]
+}

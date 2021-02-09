@@ -1,0 +1,6 @@
+<launch>
+<node name="task_planner" pkg="opil_tp_polimi" type="tp.py" output="screen" args="$(find opil_tp_polimi)/config/i40Lab_config.json $(find opil_tp_polimi)/config/motion_post_template.json $(find opil_tp_polimi)/config/action_post_template.json"> 
+</node>
+<node name="listener" pkg="opil_tp_polimi" type="listener.py" output="screen" args="$(find opil_tp_polimi)/config/listener.config"> 
+</node>
+</launch>

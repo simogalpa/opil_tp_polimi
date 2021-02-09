@@ -1,0 +1,202 @@
+{"Nodes":[
+  {
+    "ID": 1,
+    "Name": "start",
+    "Pixel X": 3373,
+    "Pixel Y": 2095,
+    "Map X (meters)": 16.5,
+    "Map Y (meters)": 15.5,
+    "Floor": 1,
+    "Resolution": 0.025,
+    "Origin X": -49.875,
+    "Origin Y": -49.875
+  },
+  {
+    "ID": 2,
+    "Name": "Porta",
+    "Pixel X": 3400,
+    "Pixel Y": 2208,
+    "Map X (meters)": 13.3,
+    "Map Y (meters)": 9,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 3,
+    "Name": "Simone",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":11.0,
+    "Map Y (meters)": 13.8,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  }
+  ,
+  {
+    "ID": 4,
+    "Name": "Domenico",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":16.69,
+    "Map Y (meters)": 10.44,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 5,
+    "Name": "Andrea",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":12.2,
+    "Map Y (meters)": 9.26,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 6,
+    "Name": "Cobot",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":17.5,
+    "Map Y (meters)": 13.8,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 7,
+    "Name": "Robot_waypoint",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":13.08,
+    "Map Y (meters)": 16.97,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  }
+  ,
+  {
+    "ID": 8,
+    "Name": "Scrivania",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":12.2,
+    "Map Y (meters)": 18.02,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 9,
+    "Name": "Porta_sx",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":13.46,
+    "Map Y (meters)": 20.83,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  },
+  {
+    "ID": 10,
+    "Name": "Cambio_Pcb",
+    "Pixel X": 3435,
+    "Pixel Y": 1820,
+    "Map X (meters)":12.80,
+    "Map Y (meters)": 14.0,
+    "Floor": 1,
+    "Resolution": "",
+    "Origin X": "",
+    "Origin Y": ""
+  }
+],
+"Edges":[
+  {
+    "From": 1,
+    "To": 2,
+    "Weight" : 1.5
+  },
+    {
+    "From": 6,
+    "To": 1,
+    "Weight" : 1
+  },
+    {
+    "From": 1,
+    "To": 10,
+    "Weight" : 1
+  },
+    {
+    "From": 7,
+    "To": 1,
+    "Weight" : 1
+    },
+    {
+    "From": 2,
+    "To": 6,
+    "Weight" : 1
+  },
+    {
+    "From": 2,
+    "To": 3,
+    "Weight" : 1
+  },
+    {
+    "From": 2,
+    "To": 4,
+    "Weight" : 1
+  },
+    {
+    "From": 2,
+    "To": 5,
+    "Weight" : 1
+  },
+    {
+    "From": 3,
+    "To": 5,
+    "Weight" : 1
+  },
+    {
+    "From": 7,
+    "To": 3,
+    "Weight" : 1
+  },
+    {
+    "From": 8,
+    "To": 3,
+    "Weight" : 1
+  },
+    {
+    "From": 4,
+    "To": 6,
+    "Weight" : 1
+  },
+    {
+    "From": 5,
+    "To": 6,
+    "Weight" : 1
+  },
+    {
+    "From": 7,
+    "To": 8,
+    "Weight" : 1
+  },
+    {
+    "From": 7,
+    "To": 9,
+    "Weight" : 1
+  }
+  ]
+}
