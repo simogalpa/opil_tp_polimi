@@ -277,8 +277,6 @@ if __name__ == '__main__':
 
       print("File path : " , os.path.dirname(os.path.abspath(__file__)))
 
-      if 
-
       motion_post_template_file = "src/opil_tp_polimi/config/motion_post_template.json"
       action_post_template_file = "src/opil_tp_polimi/config/action_post_template.json"
       print sys.argv
